@@ -1,1 +1,0 @@
-# aws_practise_repo
